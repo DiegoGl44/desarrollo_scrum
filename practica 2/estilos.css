@@ -126,4 +126,39 @@ body {
 	font-size:20pt; 
 	font-style:italic;
 }
+.Ficha-Javier {
+    font-family: Helvetica, cursive;
+    border-radius: 35px 0px 35px 0px;
+    background: linear-gradient( #FF0000, white);
+    width: 300px;
+    display: block;
+    margin: auto;
+    border: #0000FF 5px double;
+    text-align: center;
+    color: #0000FF;
+    box-shadow: 2px 4px #ccc;
+}
     
+.Ficha-diego{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: linear-gradient( 90deg, #800400, #185085);
+    width: 400px;
+    display: block 20 px;
+    margin: auto;
+    border: 8px inset rgb(185, 31, 31);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    box-shadow: 5px 5px rgb(146, 143, 106);
+   }
+
+.Ficha-leonardo{
+    font-size: times, Helvatica, sans-serif;
+    width: 400px;
+    display: block 20 px;
+    margin: auto;
+    color: #F7D5F6;
+    border: #3372CC 10px double;
+    background-color: #872F4F;
+    text-align: center;
+        
+}
